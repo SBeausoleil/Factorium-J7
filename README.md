@@ -1,10 +1,10 @@
-#Factorium-J7
+# Factorium-J7
 A simple generator and factory framework.
 
-##Compatibility
+## Compatibility
 Compatibility is guaranteed for Java 7 and up.
 
-##How to use it
+## How to use it
 The core interfaces of Factorium are **Generator**, **Factory**, and **Modifier**.
 Generators are the core of this framework, and in fact, factories are also just groups of generators with some sauce on top.
 Modifiers serve to optionally modify a new object before it is returned.
