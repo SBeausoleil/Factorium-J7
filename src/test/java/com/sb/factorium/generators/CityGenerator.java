@@ -16,7 +16,7 @@ public class CityGenerator extends FakerGenerator<City> {
 
     public static class CapitalGenerator extends FakerGenerator<City> {
         /**
-         * Suggested key for the default capital city generator.
+         * Suggested key for the capital city generator.
          */
         public static String KEY = "capital";
 
