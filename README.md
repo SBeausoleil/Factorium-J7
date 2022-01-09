@@ -4,7 +4,11 @@ A simple generator and factory framework.
 ## Compatibility
 Compatibility is guaranteed for Java 7 and up.
 
+For Java 8+ (lambda support): https://github.com/SBeausoleil/Factorium
+
 ## How to use it
+Install it using your favorite dependency manager: https://search.maven.org/artifact/io.github.sbeausoleil/factoriumj7/1.0.0/jar
+
 The core interfaces of Factorium are **Generator**, **Factory**, and **Modifier**.
 Generators are the core of this framework, and in fact, factories are also just groups of generators with some sauce on top.
 Modifiers serve to optionally modify a new object before it is returned.
