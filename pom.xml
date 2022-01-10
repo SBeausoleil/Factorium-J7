@@ -24,7 +24,7 @@
     <developers>
         <developer>
             <name>Samuel Beausoleil</name>
-            <email>samuel.beausoleil@hotmail.com</email>
+            <email>sbeausoleil_dev@hotmail.com</email>
             <organization>Independent</organization>
             <organizationUrl>http://www.sonatype.com</organizationUrl>
         </developer>
@@ -138,7 +138,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
         <!-- 3.8.1 to retain Java 7 compatibility -->
